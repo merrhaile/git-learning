@@ -1,2 +1,2 @@
-#Git Learning
-##Learning git in one Sec.
+# Git Learning
+## Learning git in one Sec.
